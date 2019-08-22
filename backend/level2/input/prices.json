@@ -1,0 +1,21 @@
+{
+    "prices": [
+        {
+            "id": 1,
+            "camper_id": 1,
+            "price_per_day": 90.0,
+            "weekly_discount": 0.1
+        },
+        {
+            "id": 2,
+            "camper_id": 2,
+            "price_per_day": 75.0
+        },
+        {
+            "id": 3,
+            "camper_id": 3,
+            "price_per_day": 85.50,
+            "weekly_discount": 0.25
+        }
+    ]
+}
