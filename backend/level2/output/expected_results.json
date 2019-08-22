@@ -1,0 +1,14 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "search_id": 1,
+            "campers_found": [
+                {
+                    "camper_id": 1,
+                    "price": 540.0 
+                }
+            ]
+        }
+    ]
+}
