@@ -1,0 +1,18 @@
+{
+    "calendars": [
+        {
+            "id": 1,
+            "camper_id": 1,
+            "start_date": "2019-08-01",
+            "end_date": "2019-08-10",
+            "available": true
+        },
+        {
+            "id": 1,
+            "camper_id": 1,
+            "start_date": "2019-08-01",
+            "end_date": "2019-08-10",
+            "available": false
+        }
+    ]
+}

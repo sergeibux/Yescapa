@@ -1,0 +1,21 @@
+{
+    "searches": [
+        {
+            "id": 1,
+            "latitude": 1.111111,
+            "longitude": 1.111111
+        },
+        {
+            "id": 1,
+            "latitude": 1.111111,
+            "longitude": 1.111111,
+            "start_date": "2019-08-01",
+            "end_date": "2019-08-07"
+        },
+        {
+            "id": 1,
+            "latitude": 1.111111,
+            "longitude": 1.111111
+        }
+    ]
+}
