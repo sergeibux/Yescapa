@@ -1,9 +1,13 @@
 # Yescapa Backend Challenge
-
-
 This test is part of our hiring process at Yescapa for backend positions. 
+**Looking for a job? Contact us at jobs@yescapa.com**
 
-Looking for a job? Contact us at jobs@yescapa.com
+## Guidelines
+**For each level, write code that creates a new `output/results.json` file from the files in `input`.
+An `expected_output.json` file is available to give you a reference on what result is expected.**
+
+- Clone this repo
+- Solve the levels in ascending order
 
 ## Sending your results
 Once you are done, please send your results to the person you are talking to. 
