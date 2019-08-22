@@ -7,18 +7,18 @@ This test is part of our hiring process at Yescapa for backend positions.
 During this challenge, you will create a search engine to find the best campers to rent for your next roadtrip.
 Across the 3 levels, the difficulty is raising and the engine can handle more precise searches.
 
+## Guidelines
+**For each level, write code that creates a new `results.json` file from the data in the `input` directory.
+An `expected_results.json` file is available to give you a reference on what result is expected.**
+
+- Clone this repo
+- Solve the levels in ascending order
+
 ## Evaluation
 Our criteria:
 - Correctness. The program should generate the correct output.
 - Clarity. Is the code well-organized and clear?
 - Robustness. Is the code easy maintenable and scalable?
-
-## Guidelines
-**For each level, write code that creates a new `output/results.json` file from the files in `input` directory.
-An `expected_results.json` file is available to give you a reference on what result is expected.**
-
-- Clone this repo
-- Solve the levels in ascending order
 
 ## Sending your results
 Once you are done, please send your results to the person you are talking to.
