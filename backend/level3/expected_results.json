@@ -1,0 +1,35 @@
+{
+    "results": [
+        {
+            "search_id": 1,
+            "search_results": [
+                {
+                    "camper_id": 3,
+                    "price": 513.0
+                }
+            ]
+        },
+        {
+            "search_id": 2,
+            "search_results": [
+                {
+                    "camper_id": 2,
+                    "price": 750.0
+                }
+            ]
+        },
+        {
+            "search_id": 3,
+            "search_results": [
+                {
+                    "camper_id": 2,
+                    "price": 75.0
+                },
+                {
+                    "camper_id": 1,
+                    "price": 90.0
+                }
+            ]
+        }
+    ]
+}
