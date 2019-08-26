@@ -1,12 +1,37 @@
 {
     "results": [
         {
-            "id": 1,
             "search_id": 1,
-            "campers_found": [
+            "search_results": [
+                {
+                    "camper_id": 3,
+                    "price": 513.0
+                }
+            ]
+        },
+        {
+            "search_id": 2,
+            "search_results": [
+                {
+                    "camper_id": 2,
+                    "price": 750.0
+                },
                 {
                     "camper_id": 1,
-                    "price": 540.0 
+                    "price": 810.0
+                }
+            ]
+        },
+        {
+            "search_id": 3,
+            "search_results": [
+                {
+                    "camper_id": 2,
+                    "price": 75.0
+                },
+                {
+                    "camper_id": 1,
+                    "price": 90.0
                 }
             ]
         }
