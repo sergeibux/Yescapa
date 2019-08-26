@@ -8,11 +8,11 @@ During this challenge, you will create a search engine to find the best campers 
 Across the 3 levels, the difficulty is raising and the engine can handle more precise searches.
 
 ## Guidelines
-**For each level, write code that creates a new `results.json` file from the data in the `input` directory.
-An `expected_results.json` file is available to give you a reference on what result is expected.**
-
 - Clone this repo
 - Solve the levels in ascending order
+
+For each level, write code that creates a new `results.json` file from the json data in the `data` directory.
+An `expected_results.json` file is available to give you a reference on what result is expected.
 
 ## Evaluation
 Our criteria:
